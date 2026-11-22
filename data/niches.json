@@ -1,0 +1,111 @@
+{
+  "generated": "2026-11-22",
+  "source": "https://facelessreels.tv",
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "niches": [
+    {
+      "niche": "Anime stories",
+      "category": "Stories & drama",
+      "category_url": null,
+      "style": "Anime",
+      "format": "9:16 Shorts",
+      "description": "Short anime-style episodes with recurring characters, their own voices and subtitles.",
+      "page_url": "https://facelessreels.tv/niches/anime-stories",
+      "example_channel": null,
+      "example_subscribers": null,
+      "example_top_video_views": null,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Mystery cartoons",
+      "category": "Scary & mystery stories",
+      "category_url": null,
+      "style": "2D cartoon",
+      "format": "9:16 Shorts",
+      "description": "A cartoon cast works out one small everyday puzzle, each with their own voice, and ends on a cliffhanger.",
+      "page_url": "https://facelessreels.tv/niches/mystery-cartoon-stories",
+      "example_channel": "Milo Fruit Stories",
+      "example_subscribers": 12800,
+      "example_top_video_views": 1200000,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Scary stories",
+      "category": "Scary & mystery stories",
+      "category_url": null,
+      "style": "Image slideshow",
+      "format": "9:16 Shorts",
+      "description": "Original horror stories told by a calm narrator over moody illustrated scenes.",
+      "page_url": "https://facelessreels.tv/niches/scary-stories",
+      "example_channel": "Depth Theory",
+      "example_subscribers": 13100,
+      "example_top_video_views": 8400000,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Painted history",
+      "category": "History & war stories",
+      "category_url": "https://facelessreels.tv/niches/history-war",
+      "style": "Image slideshow",
+      "format": "9:16 Shorts",
+      "description": "One story per video, such as a battle, an odd law or a forgotten machine, over painted documentary scenes.",
+      "page_url": "https://facelessreels.tv/niches/history",
+      "example_channel": "Ricks Clips",
+      "example_subscribers": 139000,
+      "example_top_video_views": 34500000,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Battle maps",
+      "category": "History & war stories",
+      "category_url": "https://facelessreels.tv/niches/history-war",
+      "style": "Map animation",
+      "format": "16:9 long-form",
+      "description": "Maps of battles and campaigns, with borders, troop movements and labels, narrated over the map.",
+      "page_url": "https://facelessreels.tv/niches/battle-maps",
+      "example_channel": null,
+      "example_subscribers": null,
+      "example_top_video_views": null,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Stick figure explainers",
+      "category": "Explainers & curiosity",
+      "category_url": null,
+      "style": "Stick figure",
+      "format": "9:16 Shorts",
+      "description": "Thin hand-drawn stick figures act out the answer to one curious question on a sheet of paper.",
+      "page_url": "https://facelessreels.tv/niches/sketch-animation",
+      "example_channel": null,
+      "example_subscribers": null,
+      "example_top_video_views": null,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Cartoon what-ifs",
+      "category": "Explainers & curiosity",
+      "category_url": null,
+      "style": "2D cartoon",
+      "format": "9:16 Shorts",
+      "description": "One hypothetical per video, told with flat-vector cartoon characters over painted places.",
+      "page_url": "https://facelessreels.tv/niches/what-if-videos",
+      "example_channel": "Jeremy Bearimy",
+      "example_subscribers": 57400,
+      "example_top_video_views": 1900000,
+      "examples_as_of": "2026-11-15"
+    },
+    {
+      "niche": "Stick figure sitcom",
+      "category": "Comedy & everyday life",
+      "category_url": null,
+      "style": "Stick figure",
+      "format": "9:16 Shorts",
+      "description": "Narrated stick-figure films that answer one curious everyday question each.",
+      "page_url": "https://facelessreels.tv/niches/stickman",
+      "example_channel": "BrainZap",
+      "example_subscribers": 3300,
+      "example_top_video_views": 743200,
+      "examples_as_of": "2026-11-15"
+    }
+  ]
+}
