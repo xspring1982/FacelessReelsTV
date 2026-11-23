@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "source": "https://facelessreels.tv",
   "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
   "niches": [
@@ -14,7 +14,7 @@
       "example_channel": null,
       "example_subscribers": null,
       "example_top_video_views": null,
-      "examples_as_of": "2026-11-15"
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Mystery cartoons",
@@ -27,7 +27,7 @@
       "example_channel": "Milo Fruit Stories",
       "example_subscribers": 12800,
       "example_top_video_views": 1200000,
-      "examples_as_of": "2026-11-15"
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Scary stories",
@@ -38,9 +38,9 @@
       "description": "Original horror stories told by a calm narrator over moody illustrated scenes.",
       "page_url": "https://facelessreels.tv/niches/scary-stories",
       "example_channel": "Depth Theory",
-      "example_subscribers": 13100,
-      "example_top_video_views": 8400000,
-      "examples_as_of": "2026-11-15"
+      "example_subscribers": 34600,
+      "example_top_video_views": 9400000,
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Painted history",
@@ -51,9 +51,9 @@
       "description": "One story per video, such as a battle, an odd law or a forgotten machine, over painted documentary scenes.",
       "page_url": "https://facelessreels.tv/niches/history",
       "example_channel": "Ricks Clips",
-      "example_subscribers": 139000,
+      "example_subscribers": 204000,
       "example_top_video_views": 34500000,
-      "examples_as_of": "2026-11-15"
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Battle maps",
@@ -66,7 +66,7 @@
       "example_channel": null,
       "example_subscribers": null,
       "example_top_video_views": null,
-      "examples_as_of": "2026-11-15"
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Stick figure explainers",
@@ -79,7 +79,7 @@
       "example_channel": null,
       "example_subscribers": null,
       "example_top_video_views": null,
-      "examples_as_of": "2026-11-15"
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Cartoon what-ifs",
@@ -90,9 +90,9 @@
       "description": "One hypothetical per video, told with flat-vector cartoon characters over painted places.",
       "page_url": "https://facelessreels.tv/niches/what-if-videos",
       "example_channel": "Jeremy Bearimy",
-      "example_subscribers": 57400,
-      "example_top_video_views": 1900000,
-      "examples_as_of": "2026-11-15"
+      "example_subscribers": 64700,
+      "example_top_video_views": 2000000,
+      "examples_as_of": "2026-11-22"
     },
     {
       "niche": "Stick figure sitcom",
@@ -103,9 +103,9 @@
       "description": "Narrated stick-figure films that answer one curious everyday question each.",
       "page_url": "https://facelessreels.tv/niches/stickman",
       "example_channel": "BrainZap",
-      "example_subscribers": 3300,
-      "example_top_video_views": 743200,
-      "examples_as_of": "2026-11-15"
+      "example_subscribers": 3800,
+      "example_top_video_views": 847900,
+      "examples_as_of": "2026-11-22"
     }
   ]
 }

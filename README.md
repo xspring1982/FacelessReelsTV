@@ -5,7 +5,7 @@
 A faceless YouTube niche is a channel format where no person appears on camera: a voiceover, captions and visuals carry every video.
 
 <!-- BEGIN UPDATED -->
-Last updated: 2026-11-22. Radar snapshot: 2026-11-15.
+Last updated: 2026-11-23. Radar snapshot: 2026-11-22.
 <!-- END UPDATED -->
 
 **In 30 seconds:**
@@ -60,14 +60,14 @@ The faceless niches breaking out right now are the ones where brand-new channels
 <!-- BEGIN CHANNELS -->
 | Channel | Style | Format | Channel age | Subscribers | Top video views |
 |---|---|---|---|---|---|
-| Jeremy Bearimy | 3D animation | Long-form | 42 days | 57.4K | 768K |
-| CA Daily English | 3D animation | Long-form | 44 days | 10.7K | 371.4K |
-| ConChaser | Stick figure | Long-form | 36 days | 27K | 334.3K |
-| DOOMPERK | 3D animation | Long-form | 33 days | 13.2K | 249.4K |
-| Ziro History | Map animation | Long-form | 49 days | 27.4K | 203.8K |
-| Archive in Minutes | 2D cartoon | Long-form | 52 days | 21.9K | 202.7K |
-| Day One Films | Stick figure | Long-form | 54 days | 99.2K | 174.7K |
-| Okeanos History | Map animation | Long-form | 31 days | 5.5K | 148.5K |
+| Jeremy Bearimy | 3D animation | Long-form | 43 days | 64.7K | 892K |
+| DOOMPERK | 3D animation | Long-form | 34 days | 22.7K | 421.1K |
+| ConChaser | Stick figure | Long-form | 37 days | 32.9K | 388.8K |
+| CA Daily English | 3D animation | Long-form | 45 days | 16.3K | 350K |
+| Archive in Minutes | 2D cartoon | Long-form | 53 days | 25.6K | 251.1K |
+| Ziro History | Map animation | Long-form | 50 days | 29.7K | 234.1K |
+| Okeanos History | Map animation | Long-form | 32 days | 7.1K | 207.8K |
+| Day One Films | Stick figure | Long-form | 55 days | 106K | 180.2K |
 <!-- END CHANNELS -->
 
 Subscribers and views are YouTube's public counts at the time of the snapshot; they are not estimates. Radar only tracks channels with no on-camera host, so music, gaming streams and creators on camera are left out. The full weekly board, with Shorts and long-form ranked separately, is on [Faceless Radar's YouTube trends](https://facelessreels.tv/radar/youtube).
@@ -103,11 +103,11 @@ Views per subscriber is a video's views divided by its channel's subscribers: a 
 <!-- BEGIN RATIO -->
 | Video | Channel | Style | Views | Views per subscriber |
 |---|---|---|---|---|
-| The Last 77 Seconds of the Florida Learjet 60 Before The Crash | TALEYE | 3D animation | 4.5M | 1143× |
-| Why You'd Never Want To Meet A Sperm Whale | Depth Theory | Stick figure | 8.4M | 640× |
-| The Only Animals That Make Orcas Run Away | ApexMorph | 2D cartoon | 3.5M | 506× |
-| How a Jungle Hole Becomes the Cu Chi Tunnels | You Made It | 3D animation | 31.5M | 237× |
-| Why Perfect Railroads Don't Work | Ricks Clips | Stick figure | 29.2M | 210× |
+| The Last 77 Seconds of the Florida Learjet 60 Before The Crash | TALEYE | 3D animation | 4.5M | 1144× |
+| The Only Animals That Make Orcas Run Away | ApexMorph | 2D cartoon | 4M | 512× |
+| Why Orcas Are Terrified Of Humpback whales | ApexMorph | 2D cartoon | 3.1M | 400× |
+| How a Jungle Hole Becomes the Cu Chi Tunnels | You Made It | 3D animation | 37.7M | 284× |
+| Why You'd Never Want To Meet A Sperm Whale | Depth Theory | Stick figure | 9.4M | 271× |
 <!-- END RATIO -->
 
 A high ratio on a small channel is the clearest sign that a format, not an existing audience, is doing the work. That is the kind of format worth studying before you choose a niche.

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "source": "https://facelessreels.tv",
   "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
-  "snapshot_date": "2026-11-15",
+  "snapshot_date": "2026-11-22",
   "source_url": "https://facelessreels.tv/radar/youtube",
   "counts_note": "YouTube public counts as reported to Radar's weekly crawl.",
   "new_channels": [
@@ -11,100 +11,100 @@
       "format": "Long-form",
       "style": "3D animation",
       "language": "English",
-      "channel_age_days": 42,
-      "subscribers": 57400,
-      "channel_views": 14400000,
-      "top_video_views": 768000
-    },
-    {
-      "channel": "CA Daily English",
-      "format": "Long-form",
-      "style": "3D animation",
-      "language": "English",
-      "channel_age_days": 44,
-      "subscribers": 10700,
-      "channel_views": 6600000,
-      "top_video_views": 371400
-    },
-    {
-      "channel": "ConChaser",
-      "format": "Long-form",
-      "style": "Stick figure",
-      "language": "English",
-      "channel_age_days": 36,
-      "subscribers": 27000,
-      "channel_views": 8200000,
-      "top_video_views": 334300
+      "channel_age_days": 43,
+      "subscribers": 64700,
+      "channel_views": 16900000,
+      "top_video_views": 892000
     },
     {
       "channel": "DOOMPERK",
       "format": "Long-form",
       "style": "3D animation",
       "language": "English",
-      "channel_age_days": 33,
-      "subscribers": 13200,
-      "channel_views": 3900000,
-      "top_video_views": 249400
+      "channel_age_days": 34,
+      "subscribers": 22700,
+      "channel_views": 7800000,
+      "top_video_views": 421100
     },
     {
-      "channel": "Ziro History",
+      "channel": "ConChaser",
       "format": "Long-form",
-      "style": "Map animation",
+      "style": "Stick figure",
       "language": "English",
-      "channel_age_days": 49,
-      "subscribers": 27400,
-      "channel_views": 3400000,
-      "top_video_views": 203800
+      "channel_age_days": 37,
+      "subscribers": 32900,
+      "channel_views": 11100000,
+      "top_video_views": 388800
+    },
+    {
+      "channel": "CA Daily English",
+      "format": "Long-form",
+      "style": "3D animation",
+      "language": "English",
+      "channel_age_days": 45,
+      "subscribers": 16300,
+      "channel_views": 9100000,
+      "top_video_views": 350000
     },
     {
       "channel": "Archive in Minutes",
       "format": "Long-form",
       "style": "2D cartoon",
       "language": "English",
-      "channel_age_days": 52,
-      "subscribers": 21900,
-      "channel_views": 3700000,
-      "top_video_views": 202700
+      "channel_age_days": 53,
+      "subscribers": 25600,
+      "channel_views": 4600000,
+      "top_video_views": 251100
     },
     {
-      "channel": "Day One Films",
+      "channel": "Ziro History",
       "format": "Long-form",
-      "style": "Stick figure",
+      "style": "Map animation",
       "language": "English",
-      "channel_age_days": 54,
-      "subscribers": 99200,
-      "channel_views": 12500000,
-      "top_video_views": 174700
+      "channel_age_days": 50,
+      "subscribers": 29700,
+      "channel_views": 3900000,
+      "top_video_views": 234100
     },
     {
       "channel": "Okeanos History",
       "format": "Long-form",
       "style": "Map animation",
       "language": "English",
-      "channel_age_days": 31,
-      "subscribers": 5500,
-      "channel_views": 2100000,
-      "top_video_views": 148500
+      "channel_age_days": 32,
+      "subscribers": 7100,
+      "channel_views": 3300000,
+      "top_video_views": 207800
+    },
+    {
+      "channel": "Day One Films",
+      "format": "Long-form",
+      "style": "Stick figure",
+      "language": "English",
+      "channel_age_days": 55,
+      "subscribers": 106000,
+      "channel_views": 13600000,
+      "top_video_views": 180200
     },
     {
       "channel": "Two Sides of War",
       "format": "Long-form",
       "style": "Map animation",
       "language": "English",
-      "channel_age_days": 58,
-      "subscribers": 10000,
+      "channel_age_days": 59,
+      "subscribers": 10100,
       "channel_views": 2500000,
-      "top_video_views": 136600
+      "top_video_views": 167900
     },
     {
-      "channel": "Fault Lines Official",
+      "channel": "History Climax",
       "format": "Long-form",
-      "style": "3D animation",
-      "language": "English",
-      "channel_age_days": 27,
-      "subscribers": 11000,
-      "channel_views": 2800000,
-      "top_video_views": 100000
+      "style": "Motion graphics",
+      "language": "Hindi",
+      "channel_age_days": 53,
+      "subscribers": 15200,
+      "channel_views": 5500000,
+      "top_video_views": 156500
     }
   ],
   "top_videos": [
@@ -113,200 +113,200 @@
       "title": "How a Jungle Hole Becomes the Cu Chi Tunnels",
       "channel": "You Made It",
       "style": "3D animation",
-      "views": 31500000,
-      "views_per_sub": 237.0
+      "views": 37700000,
+      "views_per_sub": 284.0
     },
     {
       "rank": 2,
       "title": "Why Perfect Railroads Don't Work",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 29200000,
-      "views_per_sub": 210.0
+      "views": 31000000,
+      "views_per_sub": 152.0
     },
     {
       "rank": 3,
-      "title": "How a Cave Becomes a Home",
-      "channel": "You Made It",
-      "style": "3D animation",
-      "views": 22300000,
-      "views_per_sub": 167.0
-    },
-    {
-      "rank": 4,
       "title": "Fastest Production Cars (1886–2026)",
       "channel": "ArtKiz",
       "style": "Motion graphics",
-      "views": 19400000,
-      "views_per_sub": 18.6
+      "views": 22400000,
+      "views_per_sub": 21.6
+    },
+    {
+      "rank": 4,
+      "title": "When the US Hit Tokyo After Pearl Harbor",
+      "channel": "Yarnhub",
+      "style": "3D animation",
+      "views": 17900000,
+      "views_per_sub": 5.3
     },
     {
       "rank": 5,
       "title": "Why Sailors Carried Storm Oil",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 16500000,
-      "views_per_sub": 119.0
+      "views": 16900000,
+      "views_per_sub": 83.1
     },
     {
       "rank": 6,
       "title": "What the Grave Bell Really Meant",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 13300000,
-      "views_per_sub": 95.5
+      "views": 14000000,
+      "views_per_sub": 68.9
     },
     {
       "rank": 7,
-      "title": "When the US Hit Tokyo After Pearl Harbor",
-      "channel": "Yarnhub",
-      "style": "3D animation",
-      "views": 12000000,
-      "views_per_sub": 3.5
-    },
-    {
-      "rank": 8,
       "title": "How a Crate Becomes a Plane",
       "channel": "You Made It",
       "style": "3D animation",
-      "views": 11000000,
-      "views_per_sub": 82.4
+      "views": 14000000,
+      "views_per_sub": 105.0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "The Pink Prison Cell Experiment",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 10500000,
-      "views_per_sub": 75.8
+      "views": 11700000,
+      "views_per_sub": 57.5
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Why the Second Draw Always Wins",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 9700000,
-      "views_per_sub": 70.1
+      "views": 9900000,
+      "views_per_sub": 48.8
     },
     {
-      "rank": 11,
-      "title": "Why Cashiers Keep Winning The Lottery",
-      "channel": "Ricks Clips",
-      "style": "Stick figure",
-      "views": 9400000,
-      "views_per_sub": 67.7
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "title": "Why You'd Never Want To Meet A Sperm Whale",
       "channel": "Depth Theory",
       "style": "Stick figure",
-      "views": 8400000,
-      "views_per_sub": 640.0
+      "views": 9400000,
+      "views_per_sub": 271.0
     },
     {
-      "rank": 13,
+      "rank": 11,
       "title": "Same fight. Same kid. 😡 vs 🤝 Kids forget what you fought about, never how 💛",
       "channel": "mevsmywife",
       "style": "Stick figure",
-      "views": 7800000,
-      "views_per_sub": 186.0
+      "views": 8700000,
+      "views_per_sub": 208.0
     },
     {
-      "rank": 14,
+      "rank": 12,
       "title": "He Could Spot Winning Tickets Just by Looking",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 6600000,
-      "views_per_sub": 47.3
+      "views": 6800000,
+      "views_per_sub": 33.5
     },
     {
-      "rank": 15,
+      "rank": 13,
       "title": "Strict parents vs chill parents 🔒🤗",
       "channel": "mevsmywife",
       "style": "Stick figure",
-      "views": 5900000,
-      "views_per_sub": 141.0
+      "views": 6700000,
+      "views_per_sub": 159.0
     },
     {
-      "rank": 16,
+      "rank": 14,
       "title": "How a Mirror Rigged a Horse Race",
       "channel": "Ricks Clips",
       "style": "Stick figure",
-      "views": 5600000,
-      "views_per_sub": 40.4
+      "views": 5700000,
+      "views_per_sub": 28.1
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "title": "How a Spoon Becomes an Escape from Alcatraz 🥄🌊",
+      "channel": "You Made It",
+      "style": "3D animation",
+      "views": 5500000,
+      "views_per_sub": 41.6
+    },
+    {
+      "rank": 16,
       "title": "The Last 77 Seconds of the Florida Learjet 60 Before The Crash",
       "channel": "TALEYE",
       "style": "3D animation",
       "views": 4500000,
-      "views_per_sub": 1143.0
+      "views_per_sub": 1144.0
+    },
+    {
+      "rank": 17,
+      "title": "Big brothers protect you. Big sisters raise you 🤍",
+      "channel": "mevsmywife",
+      "style": "Stick figure",
+      "views": 4100000,
+      "views_per_sub": 98.2
     },
     {
       "rank": 18,
-      "title": "The Town Built Around a Button",
-      "channel": "Ricks Clips",
+      "title": "Part 2 🚗 Same trip. Same kid. 😡 vs 🤝 Kids forget where you went, never the ride 💛",
+      "channel": "mevsmywife",
       "style": "Stick figure",
-      "views": 3800000,
-      "views_per_sub": 27.4
+      "views": 4100000,
+      "views_per_sub": 97.6
     },
     {
       "rank": 19,
       "title": "The Only Animals That Make Orcas Run Away",
       "channel": "ApexMorph",
       "style": "2D cartoon",
-      "views": 3500000,
-      "views_per_sub": 506.0
+      "views": 4000000,
+      "views_per_sub": 512.0
     },
     {
       "rank": 20,
-      "title": "Big brothers protect you. Big sisters raise you 🤍",
-      "channel": "mevsmywife",
-      "style": "Stick figure",
-      "views": 3500000,
-      "views_per_sub": 83.5
-    },
-    {
-      "rank": 21,
-      "title": "How a Spoon Becomes an Escape from Alcatraz 🥄🌊",
-      "channel": "You Made It",
-      "style": "3D animation",
-      "views": 3400000,
-      "views_per_sub": 25.6
-    },
-    {
-      "rank": 22,
-      "title": "Part 2 🚗 Same trip. Same kid. 😡 vs 🤝 Kids forget where you went, never the ride 💛",
-      "channel": "mevsmywife",
-      "style": "Stick figure",
-      "views": 3300000,
-      "views_per_sub": 78.8
-    },
-    {
-      "rank": 23,
       "title": "The World’s Longest Fence 🤯🇦🇺 Australia’s Dingo Fence 🐕",
       "channel": "GeoGlobeTales",
       "style": "Map animation",
-      "views": 3300000,
-      "views_per_sub": 1.6
+      "views": 4000000,
+      "views_per_sub": 1.9
     },
     {
-      "rank": 24,
+      "rank": 21,
+      "title": "The Town Built Around a Button",
+      "channel": "Ricks Clips",
+      "style": "Stick figure",
+      "views": 3900000,
+      "views_per_sub": 18.9
+    },
+    {
+      "rank": 22,
+      "title": "How a Coffin Becomes Your Way Out of the Grave",
+      "channel": "You Made It",
+      "style": "3D animation",
+      "views": 3600000,
+      "views_per_sub": 27.3
+    },
+    {
+      "rank": 23,
       "title": "Life ...",
       "channel": "mevsmywife",
       "style": "Stick figure",
-      "views": 3200000,
-      "views_per_sub": 76.9
+      "views": 3400000,
+      "views_per_sub": 80.9
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "The Difference Between the House and Senate 🇺🇸🤯 U.S. Congressmen vs Senators",
       "channel": "GeoGlobeTales",
       "style": "Map animation",
-      "views": 3000000,
-      "views_per_sub": 1.4
+      "views": 3200000,
+      "views_per_sub": 1.5
+    },
+    {
+      "rank": 25,
+      "title": "Why Orcas Are Terrified Of Humpback whales",
+      "channel": "ApexMorph",
+      "style": "2D cartoon",
+      "views": 3100000,
+      "views_per_sub": 400.0
     }
   ]
 }
